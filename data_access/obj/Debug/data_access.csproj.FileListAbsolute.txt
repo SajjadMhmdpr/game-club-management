@@ -1,0 +1,115 @@
+E:\c# project\Game net\data_access\bin\Debug\data_access.dll.config
+E:\c# project\Game net\data_access\bin\Debug\data_access.dll
+E:\c# project\Game net\data_access\bin\Debug\data_access.pdb
+E:\c# project\Game net\data_access\bin\Debug\EntityFramework.dll
+E:\c# project\Game net\data_access\bin\Debug\EntityFramework.SqlServer.dll
+E:\c# project\Game net\data_access\bin\Debug\model.dll
+E:\c# project\Game net\data_access\bin\Debug\model.pdb
+E:\c# project\Game net\data_access\bin\Debug\EntityFramework.xml
+E:\c# project\Game net\data_access\bin\Debug\EntityFramework.SqlServer.xml
+E:\c# project\Game net\data_access\obj\Debug\data_access.csproj.AssemblyReference.cache
+E:\c# project\Game net\data_access\obj\Debug\data_access.csproj.CoreCompileInputs.cache
+E:\c# project\Game net\data_access\obj\Debug\data_access.dll
+E:\c# project\Game net\data_access\obj\Debug\data_access.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v2\data_access\bin\Debug\data_access.dll.config
+C:\Users\D.H.ERAM\Desktop\Game net v2\data_access\bin\Debug\data_access.dll
+C:\Users\D.H.ERAM\Desktop\Game net v2\data_access\bin\Debug\data_access.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v2\data_access\bin\Debug\EntityFramework.dll
+C:\Users\D.H.ERAM\Desktop\Game net v2\data_access\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\D.H.ERAM\Desktop\Game net v2\data_access\bin\Debug\model.dll
+C:\Users\D.H.ERAM\Desktop\Game net v2\data_access\bin\Debug\model.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v2\data_access\bin\Debug\EntityFramework.xml
+C:\Users\D.H.ERAM\Desktop\Game net v2\data_access\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\D.H.ERAM\Desktop\Game net v2\data_access\obj\Debug\data_access.csproj.AssemblyReference.cache
+C:\Users\D.H.ERAM\Desktop\Game net v2\data_access\obj\Debug\data_access.csproj.CoreCompileInputs.cache
+C:\Users\D.H.ERAM\Desktop\Game net v2\data_access\obj\Debug\data_access.dll
+C:\Users\D.H.ERAM\Desktop\Game net v2\data_access\obj\Debug\data_access.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v3\data_access\bin\Debug\data_access.dll.config
+C:\Users\D.H.ERAM\Desktop\Game net v3\data_access\bin\Debug\data_access.dll
+C:\Users\D.H.ERAM\Desktop\Game net v3\data_access\bin\Debug\data_access.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v3\data_access\bin\Debug\EntityFramework.dll
+C:\Users\D.H.ERAM\Desktop\Game net v3\data_access\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\D.H.ERAM\Desktop\Game net v3\data_access\bin\Debug\model.dll
+C:\Users\D.H.ERAM\Desktop\Game net v3\data_access\bin\Debug\model.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v3\data_access\bin\Debug\EntityFramework.xml
+C:\Users\D.H.ERAM\Desktop\Game net v3\data_access\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\D.H.ERAM\Desktop\Game net v3\data_access\obj\Debug\data_access.csproj.AssemblyReference.cache
+C:\Users\D.H.ERAM\Desktop\Game net v3\data_access\obj\Debug\data_access.csproj.CoreCompileInputs.cache
+C:\Users\D.H.ERAM\Desktop\Game net v3\data_access\obj\Debug\data_access.dll
+C:\Users\D.H.ERAM\Desktop\Game net v3\data_access\obj\Debug\data_access.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v3\data_access\obj\Debug\data_access.csproj.CopyComplete
+C:\Users\D.H.ERAM\Desktop\Game net v5\data_access\bin\Debug\data_access.dll.config
+C:\Users\D.H.ERAM\Desktop\Game net v5\data_access\bin\Debug\data_access.dll
+C:\Users\D.H.ERAM\Desktop\Game net v5\data_access\bin\Debug\data_access.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v5\data_access\bin\Debug\EntityFramework.dll
+C:\Users\D.H.ERAM\Desktop\Game net v5\data_access\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\D.H.ERAM\Desktop\Game net v5\data_access\bin\Debug\model.dll
+C:\Users\D.H.ERAM\Desktop\Game net v5\data_access\bin\Debug\model.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v5\data_access\bin\Debug\EntityFramework.xml
+C:\Users\D.H.ERAM\Desktop\Game net v5\data_access\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\D.H.ERAM\Desktop\Game net v5\data_access\obj\Debug\data_access.csproj.AssemblyReference.cache
+C:\Users\D.H.ERAM\Desktop\Game net v5\data_access\obj\Debug\data_access.csproj.CoreCompileInputs.cache
+C:\Users\D.H.ERAM\Desktop\Game net v5\data_access\obj\Debug\data_access.dll
+C:\Users\D.H.ERAM\Desktop\Game net v5\data_access\obj\Debug\data_access.pdb
+E:\c# project\Game net v6\data_access\bin\Debug\data_access.dll.config
+E:\c# project\Game net v6\data_access\bin\Debug\data_access.dll
+E:\c# project\Game net v6\data_access\bin\Debug\data_access.pdb
+E:\c# project\Game net v6\data_access\bin\Debug\EntityFramework.dll
+E:\c# project\Game net v6\data_access\bin\Debug\EntityFramework.SqlServer.dll
+E:\c# project\Game net v6\data_access\bin\Debug\model.dll
+E:\c# project\Game net v6\data_access\bin\Debug\model.pdb
+E:\c# project\Game net v6\data_access\bin\Debug\EntityFramework.xml
+E:\c# project\Game net v6\data_access\bin\Debug\EntityFramework.SqlServer.xml
+E:\c# project\Game net v6\data_access\obj\Debug\data_access.csproj.AssemblyReference.cache
+E:\c# project\Game net v6\data_access\obj\Debug\data_access.csproj.CoreCompileInputs.cache
+E:\c# project\Game net v6\data_access\obj\Debug\data_access.csproj.CopyComplete
+E:\c# project\Game net v6\data_access\obj\Debug\data_access.dll
+E:\c# project\Game net v6\data_access\obj\Debug\data_access.pdb
+C:\Users\sajjad\Desktop\Game net v7\data_access\bin\Debug\data_access.dll.config
+C:\Users\sajjad\Desktop\Game net v7\data_access\bin\Debug\data_access.dll
+C:\Users\sajjad\Desktop\Game net v7\data_access\bin\Debug\data_access.pdb
+C:\Users\sajjad\Desktop\Game net v7\data_access\bin\Debug\EntityFramework.dll
+C:\Users\sajjad\Desktop\Game net v7\data_access\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sajjad\Desktop\Game net v7\data_access\bin\Debug\model.dll
+C:\Users\sajjad\Desktop\Game net v7\data_access\bin\Debug\model.pdb
+C:\Users\sajjad\Desktop\Game net v7\data_access\bin\Debug\EntityFramework.xml
+C:\Users\sajjad\Desktop\Game net v7\data_access\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sajjad\Desktop\Game net v7\data_access\obj\Debug\data_access.csproj.CoreCompileInputs.cache
+C:\Users\sajjad\Desktop\Game net v7\data_access\obj\Debug\data_access.csproj.CopyComplete
+C:\Users\sajjad\Desktop\Game net v7\data_access\obj\Debug\data_access.dll
+C:\Users\sajjad\Desktop\Game net v7\data_access\obj\Debug\data_access.pdb
+C:\Users\sajjad\Desktop\Game net v7\data_access\obj\Debug\data_access.csproj.AssemblyReference.cache
+C:\Users\sajjad\Desktop\Game net v7\data_access\bin\Debug\PersianDateTime.dll
+C:\Users\sajjad\Desktop\Game net v7\data_access\bin\Debug\PersianDateTime.xml
+E:\c# project\Game net v8\data_access\bin\Debug\data_access.dll.config
+E:\c# project\Game net v8\data_access\bin\Debug\data_access.dll
+E:\c# project\Game net v8\data_access\bin\Debug\data_access.pdb
+E:\c# project\Game net v8\data_access\bin\Debug\EntityFramework.dll
+E:\c# project\Game net v8\data_access\bin\Debug\EntityFramework.SqlServer.dll
+E:\c# project\Game net v8\data_access\bin\Debug\model.dll
+E:\c# project\Game net v8\data_access\bin\Debug\PersianDateTime.dll
+E:\c# project\Game net v8\data_access\bin\Debug\model.pdb
+E:\c# project\Game net v8\data_access\bin\Debug\EntityFramework.xml
+E:\c# project\Game net v8\data_access\bin\Debug\EntityFramework.SqlServer.xml
+E:\c# project\Game net v8\data_access\bin\Debug\PersianDateTime.xml
+E:\c# project\Game net v8\data_access\obj\Debug\data_access.csproj.AssemblyReference.cache
+E:\c# project\Game net v8\data_access\obj\Debug\data_access.csproj.CoreCompileInputs.cache
+E:\c# project\Game net v8\data_access\obj\Debug\data_access.csproj.CopyComplete
+E:\c# project\Game net v8\data_access\obj\Debug\data_access.dll
+E:\c# project\Game net v8\data_access\obj\Debug\data_access.pdb
+E:\project\Game net\Game net v8\data_access\bin\Debug\data_access.dll.config
+E:\project\Game net\Game net v8\data_access\bin\Debug\data_access.dll
+E:\project\Game net\Game net v8\data_access\bin\Debug\data_access.pdb
+E:\project\Game net\Game net v8\data_access\bin\Debug\EntityFramework.dll
+E:\project\Game net\Game net v8\data_access\bin\Debug\EntityFramework.SqlServer.dll
+E:\project\Game net\Game net v8\data_access\bin\Debug\model.dll
+E:\project\Game net\Game net v8\data_access\bin\Debug\PersianDateTime.dll
+E:\project\Game net\Game net v8\data_access\bin\Debug\model.pdb
+E:\project\Game net\Game net v8\data_access\bin\Debug\EntityFramework.xml
+E:\project\Game net\Game net v8\data_access\bin\Debug\EntityFramework.SqlServer.xml
+E:\project\Game net\Game net v8\data_access\bin\Debug\PersianDateTime.xml
+E:\project\Game net\Game net v8\data_access\obj\Debug\data_access.csproj.AssemblyReference.cache
+E:\project\Game net\Game net v8\data_access\obj\Debug\data_access.csproj.CoreCompileInputs.cache
+E:\project\Game net\Game net v8\data_access\obj\Debug\data_access.csproj.CopyComplete
+E:\project\Game net\Game net v8\data_access\obj\Debug\data_access.dll
+E:\project\Game net\Game net v8\data_access\obj\Debug\data_access.pdb

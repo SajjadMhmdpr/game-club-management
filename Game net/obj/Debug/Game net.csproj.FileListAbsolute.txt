@@ -1,0 +1,1002 @@
+E:\c# project\Game net\Game net\bin\Debug\Game net.exe.config
+E:\c# project\Game net\Game net\bin\Debug\Game net.exe
+E:\c# project\Game net\Game net\bin\Debug\Game net.pdb
+E:\c# project\Game net\Game net\bin\Debug\bussiness_logic.dll
+E:\c# project\Game net\Game net\bin\Debug\DevComponents.DotNetBar2.dll
+E:\c# project\Game net\Game net\bin\Debug\EntityFramework.SqlServer.dll
+E:\c# project\Game net\Game net\bin\Debug\model.dll
+E:\c# project\Game net\Game net\bin\Debug\data_access.dll
+E:\c# project\Game net\Game net\bin\Debug\EntityFramework.dll
+E:\c# project\Game net\Game net\bin\Debug\bussiness_logic.pdb
+E:\c# project\Game net\Game net\bin\Debug\model.pdb
+E:\c# project\Game net\Game net\bin\Debug\DevComponents.DotNetBar2.xml
+E:\c# project\Game net\Game net\bin\Debug\EntityFramework.SqlServer.xml
+E:\c# project\Game net\Game net\bin\Debug\data_access.pdb
+E:\c# project\Game net\Game net\bin\Debug\data_access.dll.config
+E:\c# project\Game net\Game net\bin\Debug\EntityFramework.xml
+E:\c# project\Game net\Game net\obj\Debug\Game net.csproj.AssemblyReference.cache
+E:\c# project\Game net\Game net\obj\Debug\Game_net.addDesk.resources
+E:\c# project\Game net\Game net\obj\Debug\Game_net.addGame.resources
+E:\c# project\Game net\Game net\obj\Debug\Game_net.addPlayer.resources
+E:\c# project\Game net\Game net\obj\Debug\Game_net.chooseGame.resources
+E:\c# project\Game net\Game net\obj\Debug\Game_net.darhalEjra.resources
+E:\c# project\Game net\Game net\obj\Debug\Game_net.factorPage.resources
+E:\c# project\Game net\Game net\obj\Debug\Game_net.Form1.resources
+E:\c# project\Game net\Game net\obj\Debug\Game_net.gameList.resources
+E:\c# project\Game net\Game net\obj\Debug\Game_net.mainWindow.resources
+E:\c# project\Game net\Game net\obj\Debug\Game_net.managerPage.resources
+E:\c# project\Game net\Game net\obj\Debug\Game_net.pardakhtPage.resources
+E:\c# project\Game net\Game net\obj\Debug\Game_net.playerList.resources
+E:\c# project\Game net\Game net\obj\Debug\Game_net.Properties.Resources.resources
+E:\c# project\Game net\Game net\obj\Debug\Game_net.updateGame.resources
+E:\c# project\Game net\Game net\obj\Debug\Game net.csproj.GenerateResource.cache
+E:\c# project\Game net\Game net\obj\Debug\Game net.csproj.CoreCompileInputs.cache
+E:\c# project\Game net\Game net\obj\Debug\Game net.exe
+E:\c# project\Game net\Game net\obj\Debug\Game net.pdb
+E:\c# project\Game net\Game net\obj\Debug\Game_net.employeeList.resources
+E:\c# project\Game net\Game net\obj\Debug\Game_net.login.resources
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\bin\Debug\Game net.exe.config
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\bin\Debug\Game net.exe
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\bin\Debug\Game net.pdb
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\bin\Debug\bussiness_logic.dll
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\bin\Debug\model.dll
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\bin\Debug\data_access.dll
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\bin\Debug\EntityFramework.dll
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\bin\Debug\bussiness_logic.pdb
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\bin\Debug\model.pdb
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\bin\Debug\data_access.pdb
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\bin\Debug\data_access.dll.config
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\bin\Debug\EntityFramework.xml
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\obj\Debug\Game net.csproj.AssemblyReference.cache
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\obj\Debug\Game_net.addDesk.resources
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\obj\Debug\Game_net.addGame.resources
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\obj\Debug\Game_net.addPlayer.resources
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\obj\Debug\Game_net.chooseGame.resources
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\obj\Debug\Game_net.darhalEjra.resources
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\obj\Debug\Game_net.employeeList.resources
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\obj\Debug\Game_net.factorPage.resources
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\obj\Debug\Game_net.Form1.resources
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\obj\Debug\Game_net.gameList.resources
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\obj\Debug\Game_net.login.resources
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\obj\Debug\Game_net.mainWindow.resources
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\obj\Debug\Game_net.managerPage.resources
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\obj\Debug\Game_net.pardakhtPage.resources
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\obj\Debug\Game_net.playerList.resources
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\obj\Debug\Game_net.Properties.Resources.resources
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\obj\Debug\Game_net.updateGame.resources
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\obj\Debug\Game net.csproj.GenerateResource.cache
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\obj\Debug\Game net.csproj.CoreCompileInputs.cache
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\obj\Debug\Game net.exe
+C:\Users\D.H.ERAM\Desktop\Game net\Game net\obj\Debug\Game net.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\bin\Debug\Game net.exe.config
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\bin\Debug\Game net.exe
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\bin\Debug\Game net.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\bin\Debug\bussiness_logic.dll
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\bin\Debug\model.dll
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\bin\Debug\data_access.dll
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\bin\Debug\EntityFramework.dll
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\bin\Debug\bussiness_logic.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\bin\Debug\model.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\bin\Debug\data_access.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\bin\Debug\data_access.dll.config
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\bin\Debug\EntityFramework.xml
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\obj\Debug\Game net.csproj.AssemblyReference.cache
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\obj\Debug\Game_net.addDesk.resources
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\obj\Debug\Game_net.addGame.resources
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\obj\Debug\Game_net.addPlayer.resources
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\obj\Debug\Game_net.chooseGame.resources
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\obj\Debug\Game_net.darhalEjra.resources
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\obj\Debug\Game_net.employeeList.resources
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\obj\Debug\Game_net.factorPage.resources
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\obj\Debug\Game_net.Form1.resources
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\obj\Debug\Game_net.gameList.resources
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\obj\Debug\Game_net.login.resources
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\obj\Debug\Game_net.mainWindow.resources
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\obj\Debug\Game_net.managerPage.resources
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\obj\Debug\Game_net.pardakhtPage.resources
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\obj\Debug\Game_net.playerList.resources
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\obj\Debug\Game_net.Properties.Resources.resources
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\obj\Debug\Game_net.updateGame.resources
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\obj\Debug\Game net.csproj.GenerateResource.cache
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\obj\Debug\Game net.csproj.CoreCompileInputs.cache
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\obj\Debug\Game net.exe
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\obj\Debug\Game net.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\obj\Debug\Game_net.historyPage.resources
+C:\Users\D.H.ERAM\Desktop\Game net v2\Game net\bin\Debug\PersianDateTimeControl.dll
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\bin\Debug\Game net.exe.config
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\bin\Debug\Game net.exe
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\bin\Debug\Game net.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\bin\Debug\bussiness_logic.dll
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\bin\Debug\model.dll
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\bin\Debug\PersianDatePickerControl.dll
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\bin\Debug\PersianDateTime.dll
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\bin\Debug\data_access.dll
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\bin\Debug\EntityFramework.dll
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\bin\Debug\bussiness_logic.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\bin\Debug\model.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\bin\Debug\PersianDateTime.xml
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\bin\Debug\data_access.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\bin\Debug\data_access.dll.config
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\bin\Debug\EntityFramework.xml
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\obj\Debug\Game net.csproj.AssemblyReference.cache
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\obj\Debug\Game_net.addDesk.resources
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\obj\Debug\Game_net.addGame.resources
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\obj\Debug\Game_net.addPlayer.resources
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\obj\Debug\Game_net.chooseGame.resources
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\obj\Debug\Game_net.dailyHistoryPage.resources
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\obj\Debug\Game_net.darhalEjra.resources
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\obj\Debug\Game_net.employeeList.resources
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\obj\Debug\Game_net.factorPage.resources
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\obj\Debug\Game_net.Form1.resources
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\obj\Debug\Game_net.gameList.resources
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\obj\Debug\Game_net.login.resources
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\obj\Debug\Game_net.mainWindow.resources
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\obj\Debug\Game_net.managerPage.resources
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\obj\Debug\Game_net.pardakhtPage.resources
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\obj\Debug\Game_net.playerList.resources
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\obj\Debug\Game_net.Properties.Resources.resources
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\obj\Debug\Game_net.updateGame.resources
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\obj\Debug\Game net.csproj.GenerateResource.cache
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\obj\Debug\Game net.csproj.CoreCompileInputs.cache
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\obj\Debug\Game net.exe
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\obj\Debug\Game net.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\obj\Debug\Game_net.historyFilterPage.resources
+C:\Users\D.H.ERAM\Desktop\Game net v3\Game net\obj\Debug\Game net.csproj.CopyComplete
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\bin\Debug\Game net.exe.config
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\bin\Debug\Game net.exe
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\bin\Debug\Game net.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\bin\Debug\bussiness_logic.dll
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\bin\Debug\model.dll
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\bin\Debug\PersianDatePickerControl.dll
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\bin\Debug\PersianDateTime.dll
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\bin\Debug\data_access.dll
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\bin\Debug\EntityFramework.dll
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\bin\Debug\bussiness_logic.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\bin\Debug\model.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\bin\Debug\PersianDateTime.xml
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\bin\Debug\data_access.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\bin\Debug\data_access.dll.config
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\bin\Debug\EntityFramework.xml
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\obj\Debug\Game net.csproj.AssemblyReference.cache
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\obj\Debug\Game_net.addDesk.resources
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\obj\Debug\Game_net.addGame.resources
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\obj\Debug\Game_net.addPlayer.resources
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\obj\Debug\Game_net.BedehiPage.resources
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\obj\Debug\Game_net.chooseGame.resources
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\obj\Debug\Game_net.dailyHistoryPage.resources
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\obj\Debug\Game_net.darhalEjra.resources
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\obj\Debug\Game_net.employeeList.resources
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\obj\Debug\Game_net.factorPage.resources
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\obj\Debug\Game_net.Form1.resources
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\obj\Debug\Game_net.gameList.resources
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\obj\Debug\Game_net.historyFilterPage.resources
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\obj\Debug\Game_net.login.resources
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\obj\Debug\Game_net.mainWindow.resources
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\obj\Debug\Game_net.managerPage.resources
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\obj\Debug\Game_net.pardakhtPage.resources
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\obj\Debug\Game_net.playerList.resources
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\obj\Debug\Game_net.Properties.Resources.resources
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\obj\Debug\Game_net.updateGame.resources
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\obj\Debug\Game net.csproj.GenerateResource.cache
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\obj\Debug\Game net.csproj.CoreCompileInputs.cache
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\obj\Debug\Game net.exe
+C:\Users\D.H.ERAM\Desktop\Game net v5\Game net\obj\Debug\Game net.pdb
+E:\c# project\Game net v6\Game net\bin\Debug\bussiness_logic.dll
+E:\c# project\Game net v6\Game net\bin\Debug\EntityFramework.SqlServer.dll
+E:\c# project\Game net v6\Game net\bin\Debug\model.dll
+E:\c# project\Game net v6\Game net\bin\Debug\PersianDatePickerControl.dll
+E:\c# project\Game net v6\Game net\bin\Debug\PersianDateTime.dll
+E:\c# project\Game net v6\Game net\bin\Debug\data_access.dll
+E:\c# project\Game net v6\Game net\bin\Debug\EntityFramework.dll
+E:\c# project\Game net v6\Game net\bin\Debug\bussiness_logic.pdb
+E:\c# project\Game net v6\Game net\bin\Debug\model.pdb
+E:\c# project\Game net v6\Game net\bin\Debug\DevComponents.DotNetBar2.xml
+E:\c# project\Game net v6\Game net\bin\Debug\EntityFramework.SqlServer.xml
+E:\c# project\Game net v6\Game net\bin\Debug\PersianDateTime.xml
+E:\c# project\Game net v6\Game net\bin\Debug\data_access.pdb
+E:\c# project\Game net v6\Game net\bin\Debug\data_access.dll.config
+E:\c# project\Game net v6\Game net\bin\Debug\EntityFramework.xml
+E:\c# project\Game net v6\Game net\obj\Debug\Game net.csproj.AssemblyReference.cache
+E:\c# project\Game net v6\Game net\obj\Debug\Game_net.addDesk.resources
+E:\c# project\Game net v6\Game net\obj\Debug\Game_net.addGame.resources
+E:\c# project\Game net v6\Game net\obj\Debug\Game_net.addPlayer.resources
+E:\c# project\Game net v6\Game net\obj\Debug\Game_net.BedehiPage.resources
+E:\c# project\Game net v6\Game net\obj\Debug\Game_net.chooseGame.resources
+E:\c# project\Game net v6\Game net\obj\Debug\Game_net.dailyHistoryPage.resources
+E:\c# project\Game net v6\Game net\obj\Debug\Game_net.darhalEjra.resources
+E:\c# project\Game net v6\Game net\obj\Debug\Game_net.employeeList.resources
+E:\c# project\Game net v6\Game net\obj\Debug\Game_net.factorPage.resources
+E:\c# project\Game net v6\Game net\obj\Debug\Game_net.Form1.resources
+E:\c# project\Game net v6\Game net\obj\Debug\Game_net.gameList.resources
+E:\c# project\Game net v6\Game net\obj\Debug\Game_net.historyFilterPage.resources
+E:\c# project\Game net v6\Game net\obj\Debug\Game_net.login.resources
+E:\c# project\Game net v6\Game net\obj\Debug\Game_net.mainWindow.resources
+E:\c# project\Game net v6\Game net\obj\Debug\Game_net.managerPage.resources
+E:\c# project\Game net v6\Game net\obj\Debug\Game_net.pardakhtPage.resources
+E:\c# project\Game net v6\Game net\obj\Debug\Game_net.playerList.resources
+E:\c# project\Game net v6\Game net\obj\Debug\Game_net.Properties.Resources.resources
+E:\c# project\Game net v6\Game net\obj\Debug\Game_net.updateGame.resources
+E:\c# project\Game net v6\Game net\obj\Debug\Game net.csproj.GenerateResource.cache
+E:\c# project\Game net v6\Game net\obj\Debug\Game net.csproj.CoreCompileInputs.cache
+E:\c# project\Game net v6\Game net\obj\Debug\Game net.exe
+E:\c# project\Game net v6\Game net\obj\Debug\Game net.pdb
+E:\c# project\Game net v6\Game net\bin\Debug\Game net.exe.config
+E:\c# project\Game net v6\Game net\bin\Debug\Game net.exe
+E:\c# project\Game net v6\Game net\bin\Debug\Game net.pdb
+E:\c# project\Game net v6\Game net\obj\Debug\Game net.csproj.CopyComplete
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Game net.exe.config
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Game net.exe
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Game net.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\bussiness_logic.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\model.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\PersianDatePickerControl.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\PersianDateTime.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\data_access.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\EntityFramework.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\bussiness_logic.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\model.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\PersianDateTime.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\data_access.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\data_access.dll.config
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\EntityFramework.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\obj\Debug\Game net.csproj.AssemblyReference.cache
+C:\Users\sajjad\Desktop\Game net v7\Game net\obj\Debug\Game_net.addDesk.resources
+C:\Users\sajjad\Desktop\Game net v7\Game net\obj\Debug\Game_net.addGame.resources
+C:\Users\sajjad\Desktop\Game net v7\Game net\obj\Debug\Game_net.addPlayer.resources
+C:\Users\sajjad\Desktop\Game net v7\Game net\obj\Debug\Game_net.BedehiPage.resources
+C:\Users\sajjad\Desktop\Game net v7\Game net\obj\Debug\Game_net.chooseGame.resources
+C:\Users\sajjad\Desktop\Game net v7\Game net\obj\Debug\Game_net.dailyHistoryPage.resources
+C:\Users\sajjad\Desktop\Game net v7\Game net\obj\Debug\Game_net.darhalEjra.resources
+C:\Users\sajjad\Desktop\Game net v7\Game net\obj\Debug\Game_net.employeeList.resources
+C:\Users\sajjad\Desktop\Game net v7\Game net\obj\Debug\Game_net.factorPage.resources
+C:\Users\sajjad\Desktop\Game net v7\Game net\obj\Debug\Game_net.gameList.resources
+C:\Users\sajjad\Desktop\Game net v7\Game net\obj\Debug\Game_net.historyFilterPage.resources
+C:\Users\sajjad\Desktop\Game net v7\Game net\obj\Debug\Game_net.login.resources
+C:\Users\sajjad\Desktop\Game net v7\Game net\obj\Debug\Game_net.mainWindow.resources
+C:\Users\sajjad\Desktop\Game net v7\Game net\obj\Debug\Game_net.playerList.resources
+C:\Users\sajjad\Desktop\Game net v7\Game net\obj\Debug\Game_net.Properties.Resources.resources
+C:\Users\sajjad\Desktop\Game net v7\Game net\obj\Debug\Game_net.updateGame.resources
+C:\Users\sajjad\Desktop\Game net v7\Game net\obj\Debug\Game net.csproj.GenerateResource.cache
+C:\Users\sajjad\Desktop\Game net v7\Game net\obj\Debug\Game net.csproj.CoreCompileInputs.cache
+C:\Users\sajjad\Desktop\Game net v7\Game net\obj\Debug\Game net.csproj.CopyComplete
+C:\Users\sajjad\Desktop\Game net v7\Game net\obj\Debug\Game net.exe
+C:\Users\sajjad\Desktop\Game net v7\Game net\obj\Debug\Game net.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\obj\Debug\Game_net.oneGameFactor.resources
+C:\Users\sajjad\Desktop\Game net v7\Game net\obj\Debug\Game_net.pardakhtPage.resources
+C:\Users\sajjad\Desktop\Game net v7\Game net\obj\Debug\Game_net.nesfePardakht.resources
+C:\Users\sajjad\Desktop\Game net v7\Game net\obj\Debug\Game_net.changePlayer.resources
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Azure.Core.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Azure.Identity.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.Buffers.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.Memory.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.Security.AccessControl.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.Security.Permissions.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.Text.Json.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.ValueTuple.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Azure.Core.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Azure.Identity.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Assessment.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.Buffers.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.Memory.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.Security.AccessControl.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.Security.Permissions.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.Text.Json.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\System.ValueTuple.xml
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sajjad\Desktop\Game net v7\Game net\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Game net.exe.config
+E:\c# project\Game net v8\Game net\bin\Debug\Game net.exe
+E:\c# project\Game net v8\Game net\bin\Debug\Game net.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Azure.Core.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Azure.Identity.dll
+E:\c# project\Game net v8\Game net\bin\Debug\bussiness_logic.dll
+E:\c# project\Game net v8\Game net\bin\Debug\DevComponents.DotNetBar2.dll
+E:\c# project\Game net v8\Game net\bin\Debug\EntityFramework.SqlServer.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.Identity.Client.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Assessment.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+E:\c# project\Game net v8\Game net\bin\Debug\model.dll
+E:\c# project\Game net v8\Game net\bin\Debug\Newtonsoft.Json.dll
+E:\c# project\Game net v8\Game net\bin\Debug\PersianDatePickerControl.dll
+E:\c# project\Game net v8\Game net\bin\Debug\PersianDateTime.dll
+E:\c# project\Game net v8\Game net\bin\Debug\System.Buffers.dll
+E:\c# project\Game net v8\Game net\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\c# project\Game net v8\Game net\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\c# project\Game net v8\Game net\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\c# project\Game net v8\Game net\bin\Debug\System.Memory.dll
+E:\c# project\Game net v8\Game net\bin\Debug\System.Numerics.Vectors.dll
+E:\c# project\Game net v8\Game net\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\c# project\Game net v8\Game net\bin\Debug\System.Security.AccessControl.dll
+E:\c# project\Game net v8\Game net\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\c# project\Game net v8\Game net\bin\Debug\System.Security.Permissions.dll
+E:\c# project\Game net v8\Game net\bin\Debug\System.Security.Principal.Windows.dll
+E:\c# project\Game net v8\Game net\bin\Debug\System.Text.Encodings.Web.dll
+E:\c# project\Game net v8\Game net\bin\Debug\System.Text.Json.dll
+E:\c# project\Game net v8\Game net\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\c# project\Game net v8\Game net\bin\Debug\System.ValueTuple.dll
+E:\c# project\Game net v8\Game net\bin\Debug\data_access.dll
+E:\c# project\Game net v8\Game net\bin\Debug\EntityFramework.dll
+E:\c# project\Game net v8\Game net\bin\Debug\bussiness_logic.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\model.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Azure.Core.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Azure.Identity.xml
+E:\c# project\Game net v8\Game net\bin\Debug\DevComponents.DotNetBar2.xml
+E:\c# project\Game net v8\Game net\bin\Debug\EntityFramework.SqlServer.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.Identity.Client.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Assessment.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Dmf.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Smo.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Smo.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+E:\c# project\Game net v8\Game net\bin\Debug\Newtonsoft.Json.xml
+E:\c# project\Game net v8\Game net\bin\Debug\PersianDateTime.xml
+E:\c# project\Game net v8\Game net\bin\Debug\System.Buffers.xml
+E:\c# project\Game net v8\Game net\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\c# project\Game net v8\Game net\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\c# project\Game net v8\Game net\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\c# project\Game net v8\Game net\bin\Debug\System.Memory.xml
+E:\c# project\Game net v8\Game net\bin\Debug\System.Numerics.Vectors.xml
+E:\c# project\Game net v8\Game net\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\c# project\Game net v8\Game net\bin\Debug\System.Security.AccessControl.xml
+E:\c# project\Game net v8\Game net\bin\Debug\System.Security.Permissions.xml
+E:\c# project\Game net v8\Game net\bin\Debug\System.Security.Principal.Windows.xml
+E:\c# project\Game net v8\Game net\bin\Debug\System.Text.Encodings.Web.xml
+E:\c# project\Game net v8\Game net\bin\Debug\System.Text.Json.xml
+E:\c# project\Game net v8\Game net\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\c# project\Game net v8\Game net\bin\Debug\System.ValueTuple.xml
+E:\c# project\Game net v8\Game net\bin\Debug\data_access.pdb
+E:\c# project\Game net v8\Game net\bin\Debug\data_access.dll.config
+E:\c# project\Game net v8\Game net\bin\Debug\EntityFramework.xml
+E:\c# project\Game net v8\Game net\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\c# project\Game net v8\Game net\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\c# project\Game net v8\Game net\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\c# project\Game net v8\Game net\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\c# project\Game net v8\Game net\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\c# project\Game net v8\Game net\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\c# project\Game net v8\Game net\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\c# project\Game net v8\Game net\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\c# project\Game net v8\Game net\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\c# project\Game net v8\Game net\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\c# project\Game net v8\Game net\obj\Debug\Game net.csproj.AssemblyReference.cache
+E:\c# project\Game net v8\Game net\obj\Debug\Game_net.addDesk.resources
+E:\c# project\Game net v8\Game net\obj\Debug\Game_net.addGame.resources
+E:\c# project\Game net v8\Game net\obj\Debug\Game_net.addPlayer.resources
+E:\c# project\Game net v8\Game net\obj\Debug\Game_net.BedehiPage.resources
+E:\c# project\Game net v8\Game net\obj\Debug\Game_net.changePlayer.resources
+E:\c# project\Game net v8\Game net\obj\Debug\Game_net.chooseGame.resources
+E:\c# project\Game net v8\Game net\obj\Debug\Game_net.dailyHistoryPage.resources
+E:\c# project\Game net v8\Game net\obj\Debug\Game_net.darhalEjra.resources
+E:\c# project\Game net v8\Game net\obj\Debug\Game_net.employeeList.resources
+E:\c# project\Game net v8\Game net\obj\Debug\Game_net.factorPage.resources
+E:\c# project\Game net v8\Game net\obj\Debug\Game_net.gameList.resources
+E:\c# project\Game net v8\Game net\obj\Debug\Game_net.historyFilterPage.resources
+E:\c# project\Game net v8\Game net\obj\Debug\Game_net.login.resources
+E:\c# project\Game net v8\Game net\obj\Debug\Game_net.mainWindow.resources
+E:\c# project\Game net v8\Game net\obj\Debug\Game_net.nesfePardakht.resources
+E:\c# project\Game net v8\Game net\obj\Debug\Game_net.oneGameFactor.resources
+E:\c# project\Game net v8\Game net\obj\Debug\Game_net.pardakhtPage.resources
+E:\c# project\Game net v8\Game net\obj\Debug\Game_net.playerList.resources
+E:\c# project\Game net v8\Game net\obj\Debug\Game_net.Properties.Resources.resources
+E:\c# project\Game net v8\Game net\obj\Debug\Game_net.updateGame.resources
+E:\c# project\Game net v8\Game net\obj\Debug\Game net.csproj.GenerateResource.cache
+E:\c# project\Game net v8\Game net\obj\Debug\Game net.csproj.CoreCompileInputs.cache
+E:\c# project\Game net v8\Game net\obj\Debug\Game net.csproj.CopyComplete
+E:\c# project\Game net v8\Game net\obj\Debug\Game net.exe
+E:\c# project\Game net v8\Game net\obj\Debug\Game net.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Game net.exe.config
+E:\project\Game net\Game net v8\Game net\bin\Debug\Game net.exe
+E:\project\Game net\Game net v8\Game net\bin\Debug\Game net.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Azure.Core.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Azure.Identity.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\bussiness_logic.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\DevComponents.DotNetBar2.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\EntityFramework.SqlServer.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.Identity.Client.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Assessment.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\model.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\Newtonsoft.Json.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\PersianDatePickerControl.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\PersianDateTime.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.Buffers.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.Memory.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.Numerics.Vectors.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.Security.AccessControl.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.Security.Permissions.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.Security.Principal.Windows.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.Text.Encodings.Web.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.Text.Json.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.ValueTuple.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\data_access.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\EntityFramework.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\bussiness_logic.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\model.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Azure.Core.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Azure.Identity.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\DevComponents.DotNetBar2.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\EntityFramework.SqlServer.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.Identity.Client.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Assessment.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Dmf.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Smo.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Smo.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\Newtonsoft.Json.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\PersianDateTime.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.Buffers.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.Memory.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.Numerics.Vectors.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.Security.AccessControl.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.Security.Permissions.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.Security.Principal.Windows.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.Text.Encodings.Web.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.Text.Json.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\System.ValueTuple.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\data_access.pdb
+E:\project\Game net\Game net v8\Game net\bin\Debug\data_access.dll.config
+E:\project\Game net\Game net v8\Game net\bin\Debug\EntityFramework.xml
+E:\project\Game net\Game net v8\Game net\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\project\Game net\Game net v8\Game net\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\project\Game net\Game net v8\Game net\obj\Debug\Game net.csproj.AssemblyReference.cache
+E:\project\Game net\Game net v8\Game net\obj\Debug\Game_net.addDesk.resources
+E:\project\Game net\Game net v8\Game net\obj\Debug\Game_net.addGame.resources
+E:\project\Game net\Game net v8\Game net\obj\Debug\Game_net.addPlayer.resources
+E:\project\Game net\Game net v8\Game net\obj\Debug\Game_net.BedehiPage.resources
+E:\project\Game net\Game net v8\Game net\obj\Debug\Game_net.changePlayer.resources
+E:\project\Game net\Game net v8\Game net\obj\Debug\Game_net.chooseGame.resources
+E:\project\Game net\Game net v8\Game net\obj\Debug\Game_net.dailyHistoryPage.resources
+E:\project\Game net\Game net v8\Game net\obj\Debug\Game_net.darhalEjra.resources
+E:\project\Game net\Game net v8\Game net\obj\Debug\Game_net.employeeList.resources
+E:\project\Game net\Game net v8\Game net\obj\Debug\Game_net.factorPage.resources
+E:\project\Game net\Game net v8\Game net\obj\Debug\Game_net.gameList.resources
+E:\project\Game net\Game net v8\Game net\obj\Debug\Game_net.historyFilterPage.resources
+E:\project\Game net\Game net v8\Game net\obj\Debug\Game_net.login.resources
+E:\project\Game net\Game net v8\Game net\obj\Debug\Game_net.mainWindow.resources
+E:\project\Game net\Game net v8\Game net\obj\Debug\Game_net.nesfePardakht.resources
+E:\project\Game net\Game net v8\Game net\obj\Debug\Game_net.oneGameFactor.resources
+E:\project\Game net\Game net v8\Game net\obj\Debug\Game_net.pardakhtPage.resources
+E:\project\Game net\Game net v8\Game net\obj\Debug\Game_net.playerList.resources
+E:\project\Game net\Game net v8\Game net\obj\Debug\Game_net.Properties.Resources.resources
+E:\project\Game net\Game net v8\Game net\obj\Debug\Game_net.updateGame.resources
+E:\project\Game net\Game net v8\Game net\obj\Debug\Game net.csproj.GenerateResource.cache
+E:\project\Game net\Game net v8\Game net\obj\Debug\Game net.csproj.CoreCompileInputs.cache
+E:\project\Game net\Game net v8\Game net\obj\Debug\Game net.csproj.CopyComplete
+E:\project\Game net\Game net v8\Game net\obj\Debug\Game net.exe
+E:\project\Game net\Game net v8\Game net\obj\Debug\Game net.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Game net.exe.config
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Game net.exe
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Game net.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Azure.Core.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Azure.Identity.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\bussiness_logic.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\DevComponents.DotNetBar2.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\EntityFramework.SqlServer.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.Identity.Client.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Assessment.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\model.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Newtonsoft.Json.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\PersianDatePickerControl.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\PersianDateTime.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.Buffers.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.Memory.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.Numerics.Vectors.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.Security.AccessControl.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.Security.Permissions.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.Security.Principal.Windows.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.Text.Encodings.Web.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.Text.Json.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.ValueTuple.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\data_access.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\EntityFramework.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\bussiness_logic.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\model.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Azure.Core.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Azure.Identity.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\DevComponents.DotNetBar2.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\EntityFramework.SqlServer.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.Identity.Client.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Assessment.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Dmf.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Smo.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Smo.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\Newtonsoft.Json.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\PersianDateTime.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.Buffers.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.Memory.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.Numerics.Vectors.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.Security.AccessControl.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.Security.Permissions.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.Security.Principal.Windows.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.Text.Encodings.Web.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.Text.Json.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\System.ValueTuple.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\data_access.pdb
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\data_access.dll.config
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\EntityFramework.xml
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\project\Game net\Game net v8 - Copy\Game net\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\project\Game net\Game net v8 - Copy\Game net\obj\Debug\Game net.csproj.AssemblyReference.cache
+E:\project\Game net\Game net v8 - Copy\Game net\obj\Debug\Game_net.addDesk.resources
+E:\project\Game net\Game net v8 - Copy\Game net\obj\Debug\Game_net.addGame.resources
+E:\project\Game net\Game net v8 - Copy\Game net\obj\Debug\Game_net.addPlayer.resources
+E:\project\Game net\Game net v8 - Copy\Game net\obj\Debug\Game_net.BedehiPage.resources
+E:\project\Game net\Game net v8 - Copy\Game net\obj\Debug\Game_net.changePlayer.resources
+E:\project\Game net\Game net v8 - Copy\Game net\obj\Debug\Game_net.chooseGame.resources
+E:\project\Game net\Game net v8 - Copy\Game net\obj\Debug\Game_net.dailyHistoryPage.resources
+E:\project\Game net\Game net v8 - Copy\Game net\obj\Debug\Game_net.darhalEjra.resources
+E:\project\Game net\Game net v8 - Copy\Game net\obj\Debug\Game_net.employeeList.resources
+E:\project\Game net\Game net v8 - Copy\Game net\obj\Debug\Game_net.factorPage.resources
+E:\project\Game net\Game net v8 - Copy\Game net\obj\Debug\Game_net.gameList.resources
+E:\project\Game net\Game net v8 - Copy\Game net\obj\Debug\Game_net.historyFilterPage.resources
+E:\project\Game net\Game net v8 - Copy\Game net\obj\Debug\Game_net.login.resources
+E:\project\Game net\Game net v8 - Copy\Game net\obj\Debug\Game_net.mainWindow.resources
+E:\project\Game net\Game net v8 - Copy\Game net\obj\Debug\Game_net.nesfePardakht.resources
+E:\project\Game net\Game net v8 - Copy\Game net\obj\Debug\Game_net.oneGameFactor.resources
+E:\project\Game net\Game net v8 - Copy\Game net\obj\Debug\Game_net.pardakhtPage.resources
+E:\project\Game net\Game net v8 - Copy\Game net\obj\Debug\Game_net.playerList.resources
+E:\project\Game net\Game net v8 - Copy\Game net\obj\Debug\Game_net.Properties.Resources.resources
+E:\project\Game net\Game net v8 - Copy\Game net\obj\Debug\Game_net.updateGame.resources
+E:\project\Game net\Game net v8 - Copy\Game net\obj\Debug\Game net.csproj.GenerateResource.cache
+E:\project\Game net\Game net v8 - Copy\Game net\obj\Debug\Game net.csproj.CoreCompileInputs.cache
+E:\project\Game net\Game net v8 - Copy\Game net\obj\Debug\Game net.csproj.CopyComplete
+E:\project\Game net\Game net v8 - Copy\Game net\obj\Debug\Game net.exe
+E:\project\Game net\Game net v8 - Copy\Game net\obj\Debug\Game net.pdb

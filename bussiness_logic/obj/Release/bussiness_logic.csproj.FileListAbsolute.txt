@@ -1,0 +1,30 @@
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\bin\Release\bussiness_logic.dll
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\bin\Release\bussiness_logic.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\bin\Release\data_access.dll
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\bin\Release\model.dll
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\bin\Release\EntityFramework.dll
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\bin\Release\data_access.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\bin\Release\data_access.dll.config
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\bin\Release\model.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\bin\Release\EntityFramework.xml
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\obj\Release\bussiness_logic.csproj.AssemblyReference.cache
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\obj\Release\bussiness_logic.csproj.CoreCompileInputs.cache
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\obj\Release\bussiness_logic.csproj.CopyComplete
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\obj\Release\bussiness_logic.dll
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\obj\Release\bussiness_logic.pdb
+E:\c# project\Game net v8\bussiness_logic\bin\Release\bussiness_logic.dll
+E:\c# project\Game net v8\bussiness_logic\bin\Release\bussiness_logic.pdb
+E:\c# project\Game net v8\bussiness_logic\bin\Release\data_access.dll
+E:\c# project\Game net v8\bussiness_logic\bin\Release\model.dll
+E:\c# project\Game net v8\bussiness_logic\bin\Release\EntityFramework.dll
+E:\c# project\Game net v8\bussiness_logic\bin\Release\PersianDateTime.dll
+E:\c# project\Game net v8\bussiness_logic\bin\Release\data_access.pdb
+E:\c# project\Game net v8\bussiness_logic\bin\Release\data_access.dll.config
+E:\c# project\Game net v8\bussiness_logic\bin\Release\model.pdb
+E:\c# project\Game net v8\bussiness_logic\bin\Release\EntityFramework.xml
+E:\c# project\Game net v8\bussiness_logic\bin\Release\PersianDateTime.xml
+E:\c# project\Game net v8\bussiness_logic\obj\Release\bussiness_logic.csproj.AssemblyReference.cache
+E:\c# project\Game net v8\bussiness_logic\obj\Release\bussiness_logic.csproj.CoreCompileInputs.cache
+E:\c# project\Game net v8\bussiness_logic\obj\Release\bussiness_logic.csproj.CopyComplete
+E:\c# project\Game net v8\bussiness_logic\obj\Release\bussiness_logic.dll
+E:\c# project\Game net v8\bussiness_logic\obj\Release\bussiness_logic.pdb

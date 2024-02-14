@@ -1,0 +1,117 @@
+E:\c# project\Game net\bussiness_logic\bin\Debug\bussiness_logic.dll
+E:\c# project\Game net\bussiness_logic\bin\Debug\bussiness_logic.pdb
+E:\c# project\Game net\bussiness_logic\bin\Debug\data_access.dll
+E:\c# project\Game net\bussiness_logic\bin\Debug\model.dll
+E:\c# project\Game net\bussiness_logic\bin\Debug\EntityFramework.dll
+E:\c# project\Game net\bussiness_logic\bin\Debug\data_access.pdb
+E:\c# project\Game net\bussiness_logic\bin\Debug\data_access.dll.config
+E:\c# project\Game net\bussiness_logic\bin\Debug\model.pdb
+E:\c# project\Game net\bussiness_logic\bin\Debug\EntityFramework.xml
+E:\c# project\Game net\bussiness_logic\obj\Debug\bussiness_logic.csproj.AssemblyReference.cache
+E:\c# project\Game net\bussiness_logic\obj\Debug\bussiness_logic.csproj.CoreCompileInputs.cache
+E:\c# project\Game net\bussiness_logic\obj\Debug\bussiness_logic.csproj.CopyComplete
+E:\c# project\Game net\bussiness_logic\obj\Debug\bussiness_logic.dll
+E:\c# project\Game net\bussiness_logic\obj\Debug\bussiness_logic.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v2\bussiness_logic\bin\Debug\bussiness_logic.dll
+C:\Users\D.H.ERAM\Desktop\Game net v2\bussiness_logic\bin\Debug\bussiness_logic.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v2\bussiness_logic\bin\Debug\data_access.dll
+C:\Users\D.H.ERAM\Desktop\Game net v2\bussiness_logic\bin\Debug\model.dll
+C:\Users\D.H.ERAM\Desktop\Game net v2\bussiness_logic\bin\Debug\EntityFramework.dll
+C:\Users\D.H.ERAM\Desktop\Game net v2\bussiness_logic\bin\Debug\data_access.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v2\bussiness_logic\bin\Debug\data_access.dll.config
+C:\Users\D.H.ERAM\Desktop\Game net v2\bussiness_logic\bin\Debug\model.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v2\bussiness_logic\bin\Debug\EntityFramework.xml
+C:\Users\D.H.ERAM\Desktop\Game net v2\bussiness_logic\obj\Debug\bussiness_logic.csproj.AssemblyReference.cache
+C:\Users\D.H.ERAM\Desktop\Game net v2\bussiness_logic\obj\Debug\bussiness_logic.csproj.CoreCompileInputs.cache
+C:\Users\D.H.ERAM\Desktop\Game net v2\bussiness_logic\obj\Debug\bussiness_logic.csproj.CopyComplete
+C:\Users\D.H.ERAM\Desktop\Game net v2\bussiness_logic\obj\Debug\bussiness_logic.dll
+C:\Users\D.H.ERAM\Desktop\Game net v2\bussiness_logic\obj\Debug\bussiness_logic.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v3\bussiness_logic\bin\Debug\bussiness_logic.dll
+C:\Users\D.H.ERAM\Desktop\Game net v3\bussiness_logic\bin\Debug\bussiness_logic.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v3\bussiness_logic\bin\Debug\data_access.dll
+C:\Users\D.H.ERAM\Desktop\Game net v3\bussiness_logic\bin\Debug\model.dll
+C:\Users\D.H.ERAM\Desktop\Game net v3\bussiness_logic\bin\Debug\EntityFramework.dll
+C:\Users\D.H.ERAM\Desktop\Game net v3\bussiness_logic\bin\Debug\data_access.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v3\bussiness_logic\bin\Debug\data_access.dll.config
+C:\Users\D.H.ERAM\Desktop\Game net v3\bussiness_logic\bin\Debug\model.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v3\bussiness_logic\bin\Debug\EntityFramework.xml
+C:\Users\D.H.ERAM\Desktop\Game net v3\bussiness_logic\obj\Debug\bussiness_logic.csproj.AssemblyReference.cache
+C:\Users\D.H.ERAM\Desktop\Game net v3\bussiness_logic\obj\Debug\bussiness_logic.csproj.CoreCompileInputs.cache
+C:\Users\D.H.ERAM\Desktop\Game net v3\bussiness_logic\obj\Debug\bussiness_logic.csproj.CopyComplete
+C:\Users\D.H.ERAM\Desktop\Game net v3\bussiness_logic\obj\Debug\bussiness_logic.dll
+C:\Users\D.H.ERAM\Desktop\Game net v3\bussiness_logic\obj\Debug\bussiness_logic.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\bin\Debug\bussiness_logic.dll
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\bin\Debug\bussiness_logic.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\bin\Debug\data_access.dll
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\bin\Debug\model.dll
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\bin\Debug\EntityFramework.dll
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\bin\Debug\data_access.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\bin\Debug\data_access.dll.config
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\bin\Debug\model.pdb
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\bin\Debug\EntityFramework.xml
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\obj\Debug\bussiness_logic.csproj.AssemblyReference.cache
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\obj\Debug\bussiness_logic.csproj.CoreCompileInputs.cache
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\obj\Debug\bussiness_logic.dll
+C:\Users\D.H.ERAM\Desktop\Game net v5\bussiness_logic\obj\Debug\bussiness_logic.pdb
+E:\c# project\Game net v6\bussiness_logic\bin\Debug\bussiness_logic.dll
+E:\c# project\Game net v6\bussiness_logic\bin\Debug\bussiness_logic.pdb
+E:\c# project\Game net v6\bussiness_logic\bin\Debug\data_access.dll
+E:\c# project\Game net v6\bussiness_logic\bin\Debug\model.dll
+E:\c# project\Game net v6\bussiness_logic\bin\Debug\EntityFramework.dll
+E:\c# project\Game net v6\bussiness_logic\bin\Debug\data_access.pdb
+E:\c# project\Game net v6\bussiness_logic\bin\Debug\data_access.dll.config
+E:\c# project\Game net v6\bussiness_logic\bin\Debug\model.pdb
+E:\c# project\Game net v6\bussiness_logic\bin\Debug\EntityFramework.xml
+E:\c# project\Game net v6\bussiness_logic\obj\Debug\bussiness_logic.csproj.AssemblyReference.cache
+E:\c# project\Game net v6\bussiness_logic\obj\Debug\bussiness_logic.csproj.CoreCompileInputs.cache
+E:\c# project\Game net v6\bussiness_logic\obj\Debug\bussiness_logic.csproj.CopyComplete
+E:\c# project\Game net v6\bussiness_logic\obj\Debug\bussiness_logic.dll
+E:\c# project\Game net v6\bussiness_logic\obj\Debug\bussiness_logic.pdb
+C:\Users\sajjad\Desktop\Game net v7\bussiness_logic\bin\Debug\bussiness_logic.dll
+C:\Users\sajjad\Desktop\Game net v7\bussiness_logic\bin\Debug\bussiness_logic.pdb
+C:\Users\sajjad\Desktop\Game net v7\bussiness_logic\bin\Debug\data_access.dll
+C:\Users\sajjad\Desktop\Game net v7\bussiness_logic\bin\Debug\model.dll
+C:\Users\sajjad\Desktop\Game net v7\bussiness_logic\bin\Debug\EntityFramework.dll
+C:\Users\sajjad\Desktop\Game net v7\bussiness_logic\bin\Debug\data_access.pdb
+C:\Users\sajjad\Desktop\Game net v7\bussiness_logic\bin\Debug\data_access.dll.config
+C:\Users\sajjad\Desktop\Game net v7\bussiness_logic\bin\Debug\model.pdb
+C:\Users\sajjad\Desktop\Game net v7\bussiness_logic\bin\Debug\EntityFramework.xml
+C:\Users\sajjad\Desktop\Game net v7\bussiness_logic\obj\Debug\bussiness_logic.csproj.AssemblyReference.cache
+C:\Users\sajjad\Desktop\Game net v7\bussiness_logic\obj\Debug\bussiness_logic.csproj.CoreCompileInputs.cache
+C:\Users\sajjad\Desktop\Game net v7\bussiness_logic\obj\Debug\bussiness_logic.csproj.CopyComplete
+C:\Users\sajjad\Desktop\Game net v7\bussiness_logic\obj\Debug\bussiness_logic.dll
+C:\Users\sajjad\Desktop\Game net v7\bussiness_logic\obj\Debug\bussiness_logic.pdb
+C:\Users\sajjad\Desktop\Game net v7\bussiness_logic\bin\Debug\PersianDateTime.dll
+C:\Users\sajjad\Desktop\Game net v7\bussiness_logic\bin\Debug\PersianDateTime.xml
+E:\c# project\Game net v8\bussiness_logic\bin\Debug\bussiness_logic.dll
+E:\c# project\Game net v8\bussiness_logic\bin\Debug\bussiness_logic.pdb
+E:\c# project\Game net v8\bussiness_logic\bin\Debug\data_access.dll
+E:\c# project\Game net v8\bussiness_logic\bin\Debug\model.dll
+E:\c# project\Game net v8\bussiness_logic\bin\Debug\EntityFramework.dll
+E:\c# project\Game net v8\bussiness_logic\bin\Debug\PersianDateTime.dll
+E:\c# project\Game net v8\bussiness_logic\bin\Debug\data_access.pdb
+E:\c# project\Game net v8\bussiness_logic\bin\Debug\data_access.dll.config
+E:\c# project\Game net v8\bussiness_logic\bin\Debug\model.pdb
+E:\c# project\Game net v8\bussiness_logic\bin\Debug\EntityFramework.xml
+E:\c# project\Game net v8\bussiness_logic\bin\Debug\PersianDateTime.xml
+E:\c# project\Game net v8\bussiness_logic\obj\Debug\bussiness_logic.csproj.AssemblyReference.cache
+E:\c# project\Game net v8\bussiness_logic\obj\Debug\bussiness_logic.csproj.CoreCompileInputs.cache
+E:\c# project\Game net v8\bussiness_logic\obj\Debug\bussiness_logic.csproj.CopyComplete
+E:\c# project\Game net v8\bussiness_logic\obj\Debug\bussiness_logic.dll
+E:\c# project\Game net v8\bussiness_logic\obj\Debug\bussiness_logic.pdb
+E:\project\Game net\Game net v8\bussiness_logic\bin\Debug\bussiness_logic.dll
+E:\project\Game net\Game net v8\bussiness_logic\bin\Debug\bussiness_logic.pdb
+E:\project\Game net\Game net v8\bussiness_logic\bin\Debug\data_access.dll
+E:\project\Game net\Game net v8\bussiness_logic\bin\Debug\model.dll
+E:\project\Game net\Game net v8\bussiness_logic\bin\Debug\EntityFramework.dll
+E:\project\Game net\Game net v8\bussiness_logic\bin\Debug\PersianDateTime.dll
+E:\project\Game net\Game net v8\bussiness_logic\bin\Debug\data_access.pdb
+E:\project\Game net\Game net v8\bussiness_logic\bin\Debug\data_access.dll.config
+E:\project\Game net\Game net v8\bussiness_logic\bin\Debug\model.pdb
+E:\project\Game net\Game net v8\bussiness_logic\bin\Debug\EntityFramework.xml
+E:\project\Game net\Game net v8\bussiness_logic\bin\Debug\PersianDateTime.xml
+E:\project\Game net\Game net v8\bussiness_logic\obj\Debug\bussiness_logic.csproj.AssemblyReference.cache
+E:\project\Game net\Game net v8\bussiness_logic\obj\Debug\bussiness_logic.csproj.CoreCompileInputs.cache
+E:\project\Game net\Game net v8\bussiness_logic\obj\Debug\bussiness_logic.csproj.CopyComplete
+E:\project\Game net\Game net v8\bussiness_logic\obj\Debug\bussiness_logic.dll
+E:\project\Game net\Game net v8\bussiness_logic\obj\Debug\bussiness_logic.pdb
